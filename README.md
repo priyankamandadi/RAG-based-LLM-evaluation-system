@@ -16,6 +16,3 @@ Python, LangChain, FAISS, Hugging Face Transformers, Sentence Transformers, BM25
 ## Project Structure
 - Three Jupyter notebooks implementing the complete evaluation workflow.
 - Datasets, embeddings and FAISS indices as required by the notebooks.
-
-## Notes
-This repository is provided as a personal project. Institutional affiliations and contributor information have been removed. The notebooks preserve the original implementation without functional changes.
